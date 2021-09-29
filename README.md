@@ -2,7 +2,8 @@
 
 Equipo de proyecto "Calculadora" básica:
 
-Cesar Vidal
-Diego Defilippi
-Ismael Jeronimo
+Cesar Vidal,
+Diego Defilippi,
+Ismael Jeronimo 
+y
 Juan Carlos Villacorta
