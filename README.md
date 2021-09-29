@@ -1,4 +1,4 @@
-# calculadora opción 2
+# Calculadora opción 2
 
 Equipo de proyecto "Calculadora" básica:
 
